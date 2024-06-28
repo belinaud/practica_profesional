@@ -1,0 +1,54 @@
+html, body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+img {
+    display: block;
+    width: 60%;
+    margin: auto;
+}
+h1, h2, p {
+    text-align: center;
+}
+.examen {
+    width: 80%;
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1, h2 {
+    font-size: 40px;
+}
+div p {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alimentos {
+background-color: aqua;
+padding: 20px;
+max-width: 500px;
+}
+.vinos {
+    background-color: brown;
+    padding: 20px;
+    max-width: 500px;
+}
+.tipos-de-vino {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+}
+.tipos-de-alimentos {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pagina-de-vinos {
+    font-family: cursive;
+}
+hr {
+    background-color: black;
+    border-color: aliceblue;
+}
+.item {
+    text-align: center;
+}
